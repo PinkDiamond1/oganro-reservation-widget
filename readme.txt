@@ -99,9 +99,9 @@ Wordpress Site
 
 2.Unzip and upload contents of the plugin to your /wp-content/plugins/ directory
 
-4.Activate the plugin through the 'Plugins' menu available in WordPress
+3.Activate the plugin through the 'Plugins' menu available in WordPress
 
-5.add [ogn_rw_widget_screen] short code where you want to load the widget
+4.add [ogn_rw_widget_screen] short code where you want to load the widget
 
 == Configuration ==
 
