@@ -1,4 +1,4 @@
-=== Oganro Reservation Widget ===
+=== XML Travel Portal Widget ===
 Contributors: Oganro
 Donate link: 
 Tags: XML, Travel, Portal, Widget, GDS, API, Integration, Dynamic, Holiday, Package, system, Hotel Reservation System, Tour Operator Software, B2B travel Portal widget, B2C Travel Portal Widget
@@ -44,6 +44,7 @@ Transfers & Excursions
 Holidaytaxis
 ResortHoppa
 HotelBeds
+
 
 Many more...
 
@@ -100,7 +101,7 @@ Wordpress Site
 
 4.Activate the plugin through the 'Plugins' menu available in WordPress
 
-5.add [load_widget_screen] short code where you want to load the widget
+5.add [ogn_rw_widget_screen] short code where you want to load the widget
 
 == Configuration ==
 
@@ -116,8 +117,11 @@ Click Save
 
 == Screenshots ==
 
-1. Admin section
-2. Front end section
+1. Option 1
+2. Option 2
+3. Option 3
+4. Option 4
+5. Option 5
 
 == Changelog ==
 No recent changes
