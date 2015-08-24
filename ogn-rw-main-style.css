@@ -1,0 +1,791 @@
+* {
+
+	box-sizing: border-box!important;
+
+}
+
+@font-face {
+
+	font-family: "Glyphicons Halflings";
+
+	src: url("fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("fonts/glyphicons-halflings-regular.woff") format("woff"), url("fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+
+}
+
+
+
+/*================main wrapper================*/
+
+
+
+.ogh_formwrap {
+
+
+
+background: #f9f9f9 none repeat scroll 0 0;
+
+width: 100%;
+
+padding: 8px;
+
+border: 1px solid #69b3e5;
+
+}
+
+
+
+.ogh_formwrap h2 {
+
+	color: #1e73be;
+
+	font-size: 28px;
+
+	margin: 6px 0 22px;
+
+}
+
+
+
+.ogh_searchbox .input-group .form-control , .ogh_checkin .input-group .form-control , .ogh_formwrap .nights ,.ogh_rooms .searchbox_wrapper .btn , .ogh_checkout .input-group .form-control , .ogh_checkout .input-group-addon , .ogh_searchbox .input-group-addon , .ogh_formwrap .roomstype , .ogh_checkin .input-group-addon{
+
+
+
+	border: 1px solid #000000;
+
+	
+
+}
+
+
+
+
+
+.searchbox_wrapper .btn {
+
+   
+
+    font-size: 13px;
+
+    padding: 12px 10px !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media all and (max-width: 640px) {
+
+.ogh_formwrap h2 {
+
+	color: #333333;
+
+	font-size: 18px;
+
+	margin: 6px 0 22px;
+
+}
+
+}
+
+
+
+/*@media all and (max-width: 768px) {
+
+.ogh_formwrap .ogh_checkin {
+
+    width: 50%;
+
+}
+
+
+
+}*/
+
+
+
+/*================main wrapper end================*/
+
+
+
+
+
+
+
+/*================Location================*/
+
+
+
+.ogh_formwrap .ogh_searchbox {
+
+	padding: 0 5px;
+
+	/*min-width: 280px;*/
+
+	
+
+	
+
+}
+
+
+
+.ogh_searchbox .control-label {
+
+    color: #0066bf;
+
+    font-size: 14px;
+
+}
+
+
+
+.ogh_searchbox .input-group-addon {
+
+    background-color: #1e73be !important;
+
+    padding: 5px !important;
+
+}
+
+
+
+.glyphicon.glyphicon-map-marker {
+
+	color: #fff;
+
+}
+
+
+
+.input-group .form-control{}
+
+
+
+
+
+.ogh_searchbox .input-group .form-control {
+
+	float: left;
+
+	margin-bottom: 0;
+
+	position: relative;
+
+	width: 100% !important;
+
+	z-index: 2;
+
+	 background-color: #fff!important;
+
+}
+
+
+
+.form-control::-moz-placeholder {
+
+color:#1e73be!important;
+
+opacity:1;
+
+}
+
+.form-control:-ms-input-placeholder {
+
+color:#1e73be!important;
+
+}
+
+.form-control::-webkit-input-placeholder {
+
+color:#1e73be!important;
+
+}
+
+
+
+/*================Location end================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*================Check in================*/
+
+ @media all and (max-width: 3000px) and (min-width: 940px) {
+
+.ogh_formwrap .ogh_checkin {
+
+	width: 146px !important;
+
+}
+
+
+
+.ogh_checkin .control-label {
+
+	font-size: 14px;
+
+	color: #0066bf;
+
+}
+
+
+
+
+
+
+
+.ogh_checkin .input-group .form-control {
+
+    background-color: #ffffff !important;
+
+    color: #1e73be;
+
+    float: left;
+
+    margin-bottom: 0;
+
+    position: relative;
+
+    width: 100% !important;
+
+    z-index: 2;
+
+}
+
+.ogh_checkin .input-group-addon {
+
+    background-color: #1e73be;
+
+    padding: 5px !important;
+
+	
+
+}
+
+
+
+.ogh_checkin .glyphicon.glyphicon-calendar {
+
+    color: #fff;
+
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*================Check in end================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*================Check out================*/
+
+
+
+.ogh_formwrap .ogh_checkout {
+
+    min-width: 140px;
+
+}
+
+
+
+
+
+.ogh_checkout .control-label {
+
+	font-size: 14px;
+
+	color: #0066bf;
+
+}
+
+
+
+.ogh_checkout .input-group .form-control {
+
+    background-color: #fff !important;
+
+    color: #1e73be;
+
+    float: left;
+
+    margin-bottom: 0;
+
+    position: relative;
+
+    width: 100% !important;
+
+    z-index: 2;
+
+}
+
+
+
+.ogh_checkout .glyphicon.glyphicon-calendar {
+
+    color: #fff;
+
+}
+
+
+
+
+
+.ogh_checkout  .input-group-addon {
+
+    background-color: #1e73be;
+
+    padding: 5px !important;
+
+	
+
+}
+
+
+
+
+
+/*================Check out end================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*================Nights================*/
+
+
+
+.ogh_formwrap .nights {
+
+	 background: #ffffff none repeat scroll 0 0 !important;
+
+    color: #0071bc;
+
+	
+
+	 text-shadow: none;
+
+}
+
+
+
+.ogh_formwrap .ogh_nights {
+
+	min-width:143px ;
+
+}
+
+
+
+.ogh_nights .control-label {
+
+	font-size: 14px;
+
+	 color: #0066bf;
+
+}
+
+
+
+
+
+.ogh_nights .searchbox_wrapper .btn {
+
+    font-size: 13px;
+
+    padding: 12px 10px !important;
+
+}
+
+
+
+.ogh_nights #nightsDrpdwnBtn > span {
+
+        color: #0071bc;
+
+}
+
+
+
+#nightsDrpdwn , #nightsDrpdwnBtn {
+
+    width: 100%!important;
+
+}
+
+
+
+#noOfRoomsDrpdwn , #noOfRoomsDrpdwn 
+
+ 
+
+{
+
+    width: 100%!important;
+
+}
+
+
+
+
+
+
+
+
+
+/*================nights end================*/
+
+
+
+
+
+
+
+
+
+
+
+/*================room ===============*/
+
+
+
+.ogh_formwrap .ogh_rooms {
+
+    min-width: 171px;
+
+}
+
+.ogh_formwrap .roomstype {
+
+	background: #ffffff none repeat scroll 0 0 !important;
+
+	color: #0066bf !important;
+
+	text-shadow: none;
+
+}
+
+
+
+
+
+.ogh_rooms .control-label {
+
+	font-size: 14px;
+
+	color: #0066bf;
+
+}
+
+
+
+.ogh_rooms #noOfRoomsDrpdwnBtn >  span {
+
+    color: #1e73be;
+
+}
+
+
+
+
+
+
+
+
+
+#noOfRoomsDrpdwnBtn {
+
+    width: 100%!important;
+
+}
+
+
+
+/*================room end================*/
+
+
+
+
+
+
+
+.input-group-addon {
+
+	background-color: #eee;
+
+	border: 1px solid #ccc;
+
+	border-radius: 4px;
+
+	color: #555;
+
+	font-size: 14px !important;
+
+	font-weight: 400!important;
+
+	line-height: 1;
+
+	padding: 6px 12px !important;
+
+	text-align: center;
+
+}
+
+#search_box_main_wrap .searchbox_wrapper .form-control {
+
+	font-size: 13px;
+
+	height: auto !important;
+
+	padding: 12px 0 !important;
+
+}
+
+
+
+
+
+
+
+/*.form-group.rooms.col-lg-2 {
+
+    width: 11.667% !important;
+
+}
+
+*/
+
+
+
+.sliderline {
+
+    background: #CCC none repeat scroll 0 0;
+
+    display: block;
+
+    float: left;
+
+    margin: 1px;
+
+    padding: 3px;
+
+	border:1px solid #666;
+
+}
+
+
+
+.fieldwrap {
+
+    border: 1px solid rgb(204, 204, 204);
+
+    margin: 18px 0;
+
+    padding: 10px;
+
+}
+
+
+
+.ogh_searchbox .input-group .form-control, .ogh_checkin .input-group .form-control, .ogh_formwrap .nights, .ogh_rooms .searchbox_wrapper .btn, .ogh_checkout .input-group .form-control, .ogh_checkout .input-group-addon, .ogh_searchbox .input-group-addon, .ogh_formwrap .roomstype, .ogh_checkin .input-group-addon {
+
+    border: 1px solid #1e73be;
+
+}
+
+
+
+
+
+	/*button bg color*/
+
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .btn-ios button, .btn-ios input[type="button"], .btn-ios input[type="reset"], .btn-ios input[type="submit"] {
+
+	background-color: #fff;
+
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.ogh_submitwrap .searchsubmit {
+
+  background: #0066bf none repeat scroll 0 0 ;
+
+    color: #ffffff;
+
+    font-size: 15px !important;
+
+    width: 150px;
+
+}
+
+
+
+ @media all and (max-width: 3000px) and (min-width: 940px) {
+
+ogh_submitwrap {
+
+	margin: 27px 0 0 22px;
+
+}
+
+.scrollable-menu {
+
+	height: auto!important;
+
+	max-height: 200px!important;
+
+	overflow-x: hidden!important;
+
+}
+
+.dropdown-menu li {
+
+	font-size: 13px;
+
+	line-height: 18px;
+
+	list-style: outside none none;
+
+	list-style-position: inherit;
+
+}
+
+
+
+/*lable*/
+
+
+
+
+
+
+
+
+
+
+
+/*search box icon color*/
+
+
+
+
+
+
+
+/*.ogh_formwrap .ogh_searchbox {
+
+	padding: 0 5px;
+
+	width: 100%;
+
+}*/
+
+
+
+
+
+.ogh_submitwrap {
+
+	margin: 25px 0;
+
+}
+
+}
+
+@media all and (max-width: 3000px) and (min-width: 940px) {
+	{
+		box-sizing: inherit !important;
+	}
+}
