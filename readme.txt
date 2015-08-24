@@ -117,11 +117,11 @@ Click Save
 
 == Screenshots ==
 
-1. Option 1
-2. Option 2
-3. Option 3
-4. Option 4
-5. Option 5
+1. Sample design 1
+2. Sample design 2
+3. Sample design 3
+4. Sample design 4
+5. Sample design 5
 
 == Changelog ==
 No recent changes
