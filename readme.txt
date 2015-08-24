@@ -122,6 +122,7 @@ Click Save
 3. Sample design 3
 4. Sample design 4
 5. Sample design 5
+6. All reservation box details can customize with admin panel
 
 == Changelog ==
 No recent changes
