@@ -22,55 +22,61 @@ Booking portal & Reservation engine is capable of connecting one or more XML bas
 
 <table>
     <tr>
-        <td>Test</td>
+        <td>RoomxXML</td>
+        <td>eTours</td>
+        <td>Low Costbeds</td>
+    </tr>
+    <tr>
+        <td>Tourico Holidays</td>
+        <td>DOTW</td>
+        <td>Expedia</td>
+    </tr>    
+    <tr>
+        <td>TravelPort (Galileo)</td>
+        <td>White Sands</td>
+        <td>Lots Of Hotels</td>
+    </tr>
+    <tr>
+        <td>HotelsPro</td>
+        <td>ResTel/ Hotusa</td>
+        <td>Trend</td>
+    </tr>
+    <tr>
+        <td>Travco</td>
+        <td>Kuoni (Kobra)</td>
+        <td>TBO Meena</td>
+    </tr>    
+    <tr>
+        <td>Jacob Hotels/ Jac Travels</td>
+        <td>AOT</td>
+        <td>Vanilla</td>
+    </tr>
+    <tr>
+        <td>GTA / TravelCube</td>
+        <td>IntechHotels</td>
+        <td>Hotelmayflower</td>
+    </tr>
+    <tr>
+        <td>Octopus</td>
+        <td>Arzoo</td>
+        <td>MyGuesthouse</td>
+    </tr>
+    <tr>
+        <td>Miki</td>
+        <td>RoyalPalm</td>
+        <td>Rezlive</td>
+    </tr>
+    <tr>
+        <td>Versys (Valadis)</td>
+        <td>World Avenue</td>
+        <td>Rooms24X7</td>
+    </tr>
+    <tr>
+        <td>Desiya</td>
+        <td>TotalStay</td>
+        <td>Others…</td>
     </tr>
 </table>
-
-*RoomxXML
-eTours
-Low Costbeds
-
-Tourico Holidays
-DOTW
-Expedia
-
-TravelPort (Galileo)
-White Sands
-Lots Of Hotels
-
-HotelsPro
-ResTel/ Hotusa
-Trend
-
-Travco
-Kuoni (Kobra)
-TBO Meena
-
-Jacob Hotels/ Jac Travels
-AOT
-Vanilla
-
-GTA / TravelCube
-IntechHotels
-Hotelmayflower
-
-Octopus
-Arzoo
-MyGuesthouse
-
-Miki
-RoyalPalm
-Rezlive
-
-Versys (Valadis)
-World Avenue
-Rooms24X7
-
-Desiya
-TotalStay
-Others…
-
-
 
 Flights (GDS)
 Amadeus (Web Services)
