@@ -12,6 +12,12 @@ WordPress Widget which connect to wholesalers/suppliers or GDS through XML APIs 
 
 == Description ==
 
+[table]
+Year,Make,Model,Length
+1997,Ford,E350,2.34
+2000,Mercury,Cougar,2.38
+[/table]
+
 This plugin will help you to build WordPress based travel portal website, & integrate & create search and book reservation engine which will be connected to Hotel, Reservation engine can work with one or more wholesale suppliers simultaneously through XML API. Once customer find suitable hotel, flight or transfers (or combination as a package) they can add their selected items to shopping cart and check out through online payment gateway and confirm their reservation real-time. Once payment is successful client will receive automated email booking confirmations, hotel vouchers, e-ticket, invoices etc...    
 
 DEMO - http://travelportal.oganro.net/
