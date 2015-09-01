@@ -326,7 +326,8 @@ var dropDownIconStyle = '<span class="glyphicon glyphicon-chevron-down"></span>'
 	
 	
     
-    var autoCompleterUrl = "http://test.multeehotel.com/common/autocompleter!getLocationList.html";		    
+    //var autoCompleterUrl = "http://test.multeehotel.com/common/autocompleter!getLocationList.html";
+    var autoCompleterUrl = "http://www.demo.oganro.net/common/autocompleter!getLocationList.html";		    
 	
 	if ('' != '') {
 
