@@ -21,7 +21,8 @@ Booking portal & Reservation engine is capable of connecting one or more XML bas
 
 ***XML CONSOLIDATORS/SUPPLIERS FOR HOTEL***
 
-RoomxXML,eTours,Low Costbeds,Tourico Holidays,DOTW,Expedia,TravelPort (Galileo),White Sands,Lots Of Hotels,HotelsPro,ResTel/ Hotusa,TrendTravco,Kuoni (Kobra),TBO Meena,Jacob Hotels/ Jac Travels,AOT,Vanilla,GTA / TravelCube,IntechHotels,Hotelmayflower,Octopus,Arzoo,MyGuesthouse,Miki,RoyalPalm,Rezlive,Versys (Valadis),World Avenue,Rooms24X7,Desiya,TotalStay,Others
+RoomxXML,eTours,Low Costbeds,Tourico Holidays,DOTW,Expedia,TravelPort (Galileo),White Sands,Lots Of Hotels,HotelsPro,ResTel/ Hotusa,TrendTravco,Kuoni (Kobra),TBO Meena,Jacob Hotels/ Jac Travels,AOT,Vanilla,GTA / TravelCube,IntechHotels,Hotelmayflower,Octopus,Arzoo,MyGuesthouse,Miki,RoyalPalm,
+Rezlive,Versys (Valadis),World Avenue,Rooms24X7,Desiya,TotalStay,Others
 
 
 ***FLIGHTS XML***
@@ -59,7 +60,7 @@ Using this plugin you will be able to create customizable search widget within y
 
 ***PAYMENT GATEWAY INTEGRATION***
 
-Realex,Wirecard,Elavon,Commedia,ePDQ,SagePay,Wirecard,First Data,Amex NTB,HDFC,ICICI,Bean Stream,Bill Desk,Commedia,Done Cash Card,Etisalat,ITZ Cash,Interswitch,OSS Cash Card,TPSL (Tech Process),KNet,Bank of Scotland,Axis Bank,ePDQ,Clear Commerce,NIBL,QNB,Cielo,Veritrans,Fidelity,Mundipagg,Cobrebem,IDBI,HSBC,Mashreq Bank,Benefit,PayU,ATOM,CrediMax,NBE (National Bank of Egypt),Others…    
+Realex,Wirecard,Elavon,Commedia,ePDQ,SagePay,Wirecard,First Data,Amex NTB,HDFC,ICICI,Bean Stream,Bill Desk,Commedia,Done Cash Card,Etisalat,ITZ Cash,Interswitch,OSS Cash Card,TPSL (Tech Process),KNet,Bank of Scotland,Axis Bank,ePDQ,Clear Commerce,NIBL,QNB,Cielo,Veritrans,Fidelity,Mundipagg,Cobrebem,IDBI,HSBC,Mashreq Bank,Benefit,PayU,ATOM,CrediMax,NBE (National Bank of Egypt),Others    
 
 
 See example below
