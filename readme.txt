@@ -18,156 +18,52 @@ DEMO - http://travelportal.oganro.net/
 
 Booking portal & Reservation engine is capable of connecting one or more XML based suppliers or GDS available in current marketplace such as...
 
+
 ***XML CONSOLIDATORS/SUPPLIERS FOR HOTEL***
 
-RoomxXML 	 	            eTours 	            Low Costbeds	
-
-Tourico Holidays 	        DOTW 	            Expedia
-
-TravelPort (Galileo)        White Sands         Lots Of Hotels
-
-HotelsPro                   ResTel/ Hotusa      Trend
-
-Travco                      Kuoni (Kobra)       TBO Meena
-
-Jacob Hotels/ Jac Travels   AOT                 Vanilla
-
-GTA / TravelCube            IntechHotels        Hotelmayflower
-
-Octopus                     Arzoo               MyGuesthouse
-
-Miki                        RoyalPalm           Rezlive
-
-Versys (Valadis)            World Avenue        Rooms24X7
-
-Desiya                      TotalStay           Others…
+RoomxXML,eTours,Low Costbeds,Tourico Holidays,DOTW,Expedia,TravelPort (Galileo),White Sands,Lots Of Hotels,HotelsPro,ResTel/ Hotusa,TrendTravco,Kuoni (Kobra),TBO Meena,Jacob Hotels/ Jac Travels,AOT,Vanilla,GTA / TravelCube,IntechHotels,Hotelmayflower,Octopus,Arzoo,MyGuesthouse,Miki,RoyalPalm,Rezlive,Versys (Valadis),World Avenue,Rooms24X7,Desiya,TotalStay,Others
 
 
 ***FLIGHTS XML***
 
-Amadeus
-	
-Galileo
-	
-Sabre
-	
-Worldspan
-	
-Travel Boutique Online (TBO)
-	
-Others:
+Amadeus,Galileo,Sabre,Worldspan,Travel Boutique Online (TBO),Others:
 
 
 ***LCC***
-Spice Jet
-	
-Indigo
- 	
-Go Air
-	
-Air India Express
-	
-Air Arabia
-	
-Travel Fusion
-	
-Mystfly
-	
-Others:
+
+Spice Jet,Indigo,Go Air,Air India Express,Air Arabia,Travel Fusion,Mystfly,Others:
 
 
-***CAR RENTALS***	
-Auto Europe
-
-Wheelz India
+***CAR RENTALS***
 	
-Affordable Car Hire
-
-Holiday taxis
-	
-Others:
+Auto Europe,Wheelz India,Affordable Car Hire,Holiday taxis,Others:
 
 
 ***SIGHT SEEING***	
-Beds Online
 
-Miki
-	
-GTA
-	
-Tourico Holidays
-	
-Others:
+Beds Online,Miki,GTA,Tourico Holidays,Others:
 
 
 ***TRANSFERS***	
-GTA
 
-Hotel Beds
-	
-Miki
-	
-Others
+GTA,Hotel Beds,Miki,Others
 
-***INSURANCE*** 	
-Karvat
 
-Axa
+***INSURANCE*** 
 	
-Others:
+Karvat,Axa,Others:
 
 
 Using this plugin you will be able to create customizable search widget within your WordPress site which connects to Oganro reservation portal and reservation engine which also can be customized and branded according to your need. Paypal payment gateway is connected as a default payment gateway, but any other payment gateways are also can be added. 
 
+
 ***PAYMENT GATEWAY INTEGRATION***
 
-Realex,
-Wirecard,
-Elavon,
-Commedia,	
-ePDQ,	
-SagePay,	
-Wirecard,	
-First Data,	
-Amex NTB,	
-HDFC,		
-ICICI,	
-Bean Stream,	
-Bill Desk,	
-Commedia,	
-Done Cash Card,	
-Etisalat,	
-ITZ Cash,	
-Interswitch,	
-OSS Cash Card,	
-TPSL (Tech Process),		
-KNet,	
-Bank of Scotland,
-Axis Bank,	
-ePDQ,	
-Clear Commerce,
-NIBL,	
-QNB,
-Cielo,	
-Veritrans,	
-Fidelity,		
-Mundipagg,	
-Cobrebem,	
-IDBI,	
-HSBC,	
-Mashreq Bank,	
-Benefit,	
-PayU,	
-ATOM,	
-CrediMax,	
-NBE (National Bank of Egypt),	
-Others…
-    
+Realex,Wirecard,Elavon,Commedia,ePDQ,SagePay,Wirecard,First Data,Amex NTB,HDFC,ICICI,Bean Stream,Bill Desk,Commedia,Done Cash Card,Etisalat,ITZ Cash,Interswitch,OSS Cash Card,TPSL (Tech Process),KNet,Bank of Scotland,Axis Bank,ePDQ,Clear Commerce,NIBL,QNB,Cielo,Veritrans,Fidelity,Mundipagg,Cobrebem,IDBI,HSBC,Mashreq Bank,Benefit,PayU,ATOM,CrediMax,NBE (National Bank of Egypt),Others…    
+
 
 See example below
 http://travelportal.oganro.net/
-
-
 
 which integrate any wholesale suppliers or     smake advance online bookings with Oganro reservation system and plan your holiday.
 This plugin is brought to you by [www.Oganro.com](http://www.Oganro.com/).
