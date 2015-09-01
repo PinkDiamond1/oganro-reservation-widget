@@ -20,19 +20,57 @@ Booking portal & Reservation engine is capable of connecting one or more XML bas
 
 ***XML CONSOLIDATORS/SUPPLIERS FOR HOTEL***
 
-RoomsXml
-HotelBeds
-HotelsPro
-YouTravel
-Tourico
-TravelFusion
+<table>
+    <tr>
+        <td>Test</td>
+    </tr>
+</table>
+
+*RoomxXML
+eTours
+Low Costbeds
+
+Tourico Holidays
+DOTW
+Expedia
+
 TravelPort (Galileo)
-Worldspan
-Amadeus (Web Services)
-JacTravel
+White Sands
+Lots Of Hotels
+
+HotelsPro
+ResTel/ Hotusa
+Trend
+
+Travco
+Kuoni (Kobra)
+TBO Meena
+
+Jacob Hotels/ Jac Travels
+AOT
+Vanilla
+
+GTA / TravelCube
+IntechHotels
+Hotelmayflower
+
+Octopus
+Arzoo
+MyGuesthouse
+
+Miki
+RoyalPalm
+Rezlive
+
+Versys (Valadis)
+World Avenue
+Rooms24X7
+
+Desiya
+TotalStay
+Others…
 
 
-Many more....
 
 Flights (GDS)
 Amadeus (Web Services)
