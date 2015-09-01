@@ -20,97 +20,148 @@ Booking portal & Reservation engine is capable of connecting one or more XML bas
 
 ***XML CONSOLIDATORS/SUPPLIERS FOR HOTEL***
 
-First Header 	 	Second Header 	 third Header	
+RoomxXML 	 	            eTours 	            Low Costbeds	
 
-First Header 	 	Second Header 	 third Header
+Tourico Holidays 	        DOTW 	            Expedia
 
-First Header 	 	Second Header 	 third Header
+TravelPort (Galileo)        White Sands         Lots Of Hotels
+
+HotelsPro                   ResTel/ Hotusa      Trend
+
+Travco                      Kuoni (Kobra)       TBO Meena
+
+Jacob Hotels/ Jac Travels   AOT                 Vanilla
+
+GTA / TravelCube            IntechHotels        Hotelmayflower
+
+Octopus                     Arzoo               MyGuesthouse
+
+Miki                        RoyalPalm           Rezlive
+
+Versys (Valadis)            World Avenue        Rooms24X7
+
+Desiya                      TotalStay           Others…
 
 
-RoomxXML
-eTours
-Low Costbeds
+***FLIGHTS XML***
 
-Tourico Holidays
-DOTW
-Expedia
+Amadeus
+	
+Galileo
+	
+Sabre
+	
+Worldspan
+	
+Travel Boutique Online (TBO)
+	
+Others:
 
-TravelPort (Galileo)
-White Sands
-Lots Of Hotels
 
-HotelsPro
-ResTel/ Hotusa
-Trend
+***LCC***
+Spice Jet
+	
+Indigo
+ 	
+Go Air
+	
+Air India Express
+	
+Air Arabia
+	
+Travel Fusion
+	
+Mystfly
+	
+Others:
 
-Travco
-Kuoni (Kobra)
-TBO Meena
 
-Jacob Hotels/ Jac Travels
-AOT
-Vanilla
+***CAR RENTALS***	
+Auto Europe
 
-GTA / TravelCube
-IntechHotels
-Hotelmayflower
+Wheelz India
+	
+Affordable Car Hire
 
-Octopus
-Arzoo
-MyGuesthouse
+Holiday taxis
+	
+Others:
+
+
+***SIGHT SEEING***	
+Beds Online
 
 Miki
-RoyalPalm
-Rezlive
-
-Versys (Valadis)
-World Avenue
-Rooms24X7
-
-Desiya
-TotalStay
-Others…
+	
+GTA
+	
+Tourico Holidays
+	
+Others:
 
 
+***TRANSFERS***	
+GTA
 
-Flights (GDS)
-Amadeus (Web Services)
-TravelPort (Galileo)
-Sabre
-Worldspan
-MyfairBox
-Many more.....
+Hotel Beds
+	
+Miki
+	
+Others
 
+***INSURANCE*** 	
+Karvat
 
-Transfers & Excursions
-Holidaytaxis
-ResortHoppa
-HotelBeds
-
-
-Many more...
+Axa
+	
+Others:
 
 
 Using this plugin you will be able to create customizable search widget within your WordPress site which connects to Oganro reservation portal and reservation engine which also can be customized and branded according to your need. Paypal payment gateway is connected as a default payment gateway, but any other payment gateways are also can be added. 
 
-Example payment gateways
-WireCard
-Realex
-Authorize.net
-Wordpay
-HSBC
-Barclaycard
-Elavon MyVirtualMerchant
-FirstData
-2Checkout
-eWay
-SagePay
-CyberSource
-Chase Paymentech (Orbital)
-Braintree
+***PAYMENT GATEWAY INTEGRATION***
 
-
-Many more
+Realex,
+Wirecard,
+Elavon,
+Commedia,	
+ePDQ,	
+SagePay,	
+Wirecard,	
+First Data,	
+Amex NTB,	
+HDFC,		
+ICICI,	
+Bean Stream,	
+Bill Desk,	
+Commedia,	
+Done Cash Card,	
+Etisalat,	
+ITZ Cash,	
+Interswitch,	
+OSS Cash Card,	
+TPSL (Tech Process),		
+KNet,	
+Bank of Scotland,
+Axis Bank,	
+ePDQ,	
+Clear Commerce,
+NIBL,	
+QNB,
+Cielo,	
+Veritrans,	
+Fidelity,		
+Mundipagg,	
+Cobrebem,	
+IDBI,	
+HSBC,	
+Mashreq Bank,	
+Benefit,	
+PayU,	
+ATOM,	
+CrediMax,	
+NBE (National Bank of Egypt),	
+Others…
     
 
 See example below
